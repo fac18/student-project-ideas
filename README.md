@@ -1,5 +1,5 @@
 # Student Project Ideas ✨
-A place for FAC18 to document ideas and thoughts for student projects (Weeks 10 - 12).
+A place for FAC18 to document ideas and thoughts for student projects (Weeks 10, 12 and 13).
 
 Contributing
 Every member of FAC18 is encouraged to contribute an issue, although you are not required to.
